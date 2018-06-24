@@ -5,7 +5,7 @@
 # catalog-license lppl1.3
 # catalog-version undef
 Name:		texlive-babel-romansh
-Version:	20170414
+Version:	20180303
 Release:	1
 Summary:	Babel/Polyglossia support for the Romansh language
 Group:		Publishing
