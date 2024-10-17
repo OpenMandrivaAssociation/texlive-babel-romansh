@@ -3,7 +3,7 @@ Version:	30286
 Release:	2
 Summary:	Babel/Polyglossia support for the Romansh language
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/romansh
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/romansh
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-romansh.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-romansh.doc.r%{version}.tar.xz
